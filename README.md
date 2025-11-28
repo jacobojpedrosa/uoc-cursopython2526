@@ -20,6 +20,14 @@ Repositorio para el curso de Python UOC 2025 y 2026
 * **Condicionales: if, elif, else**
 
 
+# 3.- Bucles y estructuras iterativas
+* **for y while**
+* **Uso de range()**
+* Control de flujo: break, continue
+
 # 4.- Estructuras de datos
 * Listas, tuplas, conjuntos y diccionarios
 * Métodos principales de cada estructura
+* *Condicionales: if, elif, else**
+
+
