@@ -17,4 +17,9 @@ Repositorio para el curso de Python UOC 2025 y 2026
 
 * **Variables y asignaciones**
 * **Operadores aritméticos, lógicos y de comparación**
-* *Condicionales: if, elif, else**
+* **Condicionales: if, elif, else**
+
+
+# 4.- Estructuras de datos
+* Listas, tuplas, conjuntos y diccionarios
+* Métodos principales de cada estructura
