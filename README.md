@@ -30,4 +30,9 @@ Repositorio para el curso de Python UOC 2025 y 2026
 * Métodos principales de cada estructura
 * *Condicionales: if, elif, else**
 
+# 5.- Manejo de errores y módulos
+* Excepciones (try, except, finally)
+* Uso de módulos estándar (math, random, datetime)
+* Introducción a la documentación y PEP8
+
 
