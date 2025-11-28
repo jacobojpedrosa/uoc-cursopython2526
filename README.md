@@ -4,8 +4,6 @@ Repositorio para el curso de Python UOC 2025 y 2026
 
 # 1.- Introducción al entorno y sintaxis básica
 
-**Teoría**
-
 * **Qué es Python y sus aplicaciones**
 * **Instalación y entorno (VS Code, Jupyter)**
 
@@ -15,4 +13,8 @@ Repositorio para el curso de Python UOC 2025 y 2026
 
 * **Tipos de datos básicos: int, float, str, bool**
 
+# 2.- Variables, operadores y estructuras de decisión
 
+* **Variables y asignaciones**
+* **Operadores aritméticos, lógicos y de comparación**
+* *Condicionales: if, elif, else**
